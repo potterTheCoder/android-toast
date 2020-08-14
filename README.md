@@ -24,11 +24,11 @@ dependencies {
 
 ## How It Looks:
 
-> Square With Border
+> Square With Border: 👇
 
 <img src="https://github.com/potterTheCoder/android-toast/blob/master/sample/images/ic_android_toast_s.png" width="250">
 
-> Square With Border Rounded Corner
+> Square With Border Rounded Corner: 👇
 
 <img src="https://github.com/potterTheCoder/android-toast/blob/master/sample/images/ic_android_toast_q.png" width="250">
 
@@ -41,8 +41,8 @@ Just import **UtilToast** class method ***showToast()*** where ever you want to 
 ```
 
 Here below *int* to style toast:
-| constant     | int value | style                             | design |
-| ------------ | --------- | --------------------------------- | ------ |
+| constant     | int value | style                             |
+| ------------ | --------- | --------------------------------- |
 | TOAST_SQUARE | 0         | Square With Border                | 
 | TOAST_OVAL   | 1         | Square With Border Rounded Corner |
 
