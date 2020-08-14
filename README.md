@@ -30,7 +30,7 @@ dependencies {
 
 > Square With Border Rounded Corner: 👇
 
-<img src="https://github.com/potterTheCoder/android-toast/blob/master/sample/images/ic_android_toast_q.png" width="250">
+<img src="https://github.com/potterTheCoder/android-toast/blob/master/sample/images/ic_android_toast_o.png" width="250">
 
 ## How To Use:
 
